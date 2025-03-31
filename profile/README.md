@@ -22,8 +22,6 @@ CodeKeepers is a vibrant community where developers come together to share knowl
   Connect with other developers, share your work, and get feedback.
 - **Contribute:**  
   Explore our repositories, contribute to open source projects, and help us improve our tools.
-- **Stay Updated:**  
-  Follow us on Twitter and check out our website for news, events, and more.
 
 ## Our Projects
 
